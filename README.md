@@ -38,6 +38,10 @@ This dataset is made available under the **Creative Commons Attribution 4.0 Inte
 
 However, you must provide appropriate credit, give a link to the license, and indicate if changes were made.
 
+## Code Release
+
+The source code used in our study, including model training and evaluation scripts, will be **open-sourced upon acceptance of our paper**. Stay tuned for updates!
+
 ## Acknowledgments
 
 This dataset was created as part of the research conducted at the **Institute of Highway Engineering, RWTH Aachen University**, and the **Intelligent Transportation System Research Center, Southeast University**. Special thanks to the field team and infrastructure inspection crew in Linyi, Shandong Province.
